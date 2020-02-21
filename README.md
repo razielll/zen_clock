@@ -5,6 +5,6 @@ download the app here (currently only windows version) <br/>
 https://gofile.io/?c=yMStmm
 <br/>
 
-![Zen Clock](https://pasteboard.co/IVLD6iE.jpg)
+![Zen Clock](zen_clock.JPG)
 
 built with electron-forge
