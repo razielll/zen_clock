@@ -13,6 +13,9 @@ download the app here (currently only windows version) <br/>
 https://gofile.io/?c=yMStmm
 <br/>
 
+If you'd like to support me, feel free to buy me a cofee <br/>
+https://ko-fi.com/razielll
+
 ![Zen Clock](zen_clock.JPG)
 
 built with electron-forge
